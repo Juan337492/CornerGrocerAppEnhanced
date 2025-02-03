@@ -35,9 +35,3 @@ CornerGrocerApp is deeply rooted in the principles of algorithms and data struct
 - Java Development Kit (JDK) 8 or higher.
 - A text file containing grocery items (each item separated by whitespace).
 
-### Installation
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/CornerGrocerApp.git
