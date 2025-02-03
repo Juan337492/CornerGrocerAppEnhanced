@@ -1,6 +1,6 @@
 # CornerGrocerAppEnhanced
-CornerGrocerApp is a Java-based application that tracks and analyzes item purchase frequencies for a grocery store. This project demonstrates fundamental algorithmic principles and the efficient use of data structures, making it an ideal example of applying core computer science concepts to solve real-world problems.
-
+CornerGrocerApp is a Java-based application that tracks and analyzes item purchase frequencies for a grocery store. Originally developed in -
+C++, the app was translated to Java to leverage its robust data structures and error-handling capabilities. This project demonstrates fundamental algorithmic principles and the efficient use of data structures, making it an ideal example of applying core computer science concepts to solve real-world problems.
 ## Features
 
 - **Efficient Data Storage:**  
